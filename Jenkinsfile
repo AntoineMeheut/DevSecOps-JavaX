@@ -1,3 +1,6 @@
+/*----------------------------------------------------------------------------------------------------------------------
+
+*/
 properties ([
   parameters ([
     string(name: 'appRepoURL', value: "", description: "Application's git repository"),
